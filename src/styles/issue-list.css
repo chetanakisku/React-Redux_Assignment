@@ -1,0 +1,15 @@
+.issue-list-section {
+  margin: 40px;
+}
+
+.issue-list-header {
+  margin-bottom: 40px;
+}
+
+li {
+  list-style: none;
+}
+
+.issue-list-info {
+  background: #f6f8fa;
+}

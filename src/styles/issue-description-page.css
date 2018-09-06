@@ -1,0 +1,22 @@
+.issue-description-section {
+  margin-left: 40px;
+  margin-top: 15px;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.issue-description-heading {
+  border-bottom: 1px solid #e6ebf1;
+  margin-bottom: 20px;
+}
+
+.status-badge {
+  background: #2cbe4e;
+  padding: 4px 10px 8px;
+  border-radius: 3px;
+  color: white;
+  margin-right: 10px;
+}
